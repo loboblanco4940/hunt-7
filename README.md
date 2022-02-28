@@ -1,2 +1,2 @@
-# hunt-7
-paspassposaodpsdsdksodkspdksopdkspoddsdkoasp
+# Proyecto-Osos-Emma
+Librerias Preparadas
